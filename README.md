@@ -1,1 +1,2 @@
-# C35_Dhruv
+# synchronousBallMovement
+Ball moving synchronously
